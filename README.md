@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ecommerce Backend
 
-## Getting Started
+This simple project is a basic implementation of a ecommerce backend using React.JS and Django. I used PostgreSQL as my database, but any would work.
 
-First, run the development server:
+1. I first created a simple product purchase template in page.jsx.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/73e72b72-abb1-4980-8f65-c26de3fa8a4b)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. I then used the Stripe API to implement a payment processor into the site
+![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/82cfd53a-5534-451d-a296-8424b3a74957)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/7631ebfe-b53c-4dc3-86bd-163c6346e31f)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/0ea84b5a-fc6b-4057-a520-766a872d501a)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/813de11a-216f-402d-8650-63e7cbbd480d)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/f1f04dfb-e784-4e54-b366-fa6c0fa084d5)
