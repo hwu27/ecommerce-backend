@@ -19,4 +19,5 @@ This simple project is a basic implementation of a ecommerce backend using React
 5. The backend:
 ![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/813de11a-216f-402d-8650-63e7cbbd480d)
 
-![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/f1f04dfb-e784-4e54-b366-fa6c0fa084d5)
+![image](https://github.com/hwu27/ecommerce-backend/assets/130116077/3a6a978b-6fd4-4137-a649-4e2846dedf29)
+
