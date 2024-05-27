@@ -1,6 +1,6 @@
 # Ecommerce Backend
 
-This simple project is a basic implementation of a ecommerce backend using React.JS and Django. I used PostgreSQL as my database, but any would work.
+This simple project is a basic implementation of a ecommerce backend using **React.JS** and **Django**. I used **PostgreSQL** as my database, but any would work.
 
 1. I first created a simple product purchase template in page.jsx.
 
